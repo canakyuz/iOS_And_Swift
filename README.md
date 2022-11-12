@@ -13,3 +13,5 @@
    - GestureRecognizerApp
    - TimerProject
 
+4. Phase 4: Catch Kenny
+   - CatchKennyApp
