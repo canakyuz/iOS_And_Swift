@@ -15,3 +15,10 @@
 
 4. Phase 4: Catch Kenny
    - CatchKennyApp
+
+5. Phase 5: TableView
+   - Kent Simgeleri
+
+6. Phase 6: Classes and OOP
+   - MusicianClass
+   - SimpsonBook
